@@ -1,0 +1,102 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.card {
+    height: 10%;
+    width: 20%;
+    margin: auto;
+}
+
+.card-title {
+    text-align: center;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.biroue {
+    background-image: url("https://cdn.futura-sciences.com/buildsv6/images/wide1920/7/6/8/7687f6fcf3_50154558_mariage-contrat.jpg");
+}
+
+h2 {
+    text-align: center;
+    padding-top: 50px
+}
+
+thead {
+    background-color: #7f3f7b;
+    color: white;
+    text-align: center;
+}
+
+.w-50 {
+    height: 500px;
+    width: 100px;
+    margin: auto;
+}
+
+td {
+    background-color: #e6e0ec;
+    text-align: center;
+}
+
+#pied_de_page {
+    background-color: #777799;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 1%;
+}
+
+.titre {
+    font-size: 1.5rem;
+}
+
+.pied {
+    background-color: #c385b9;
+    color: white;
+}
+
+button {}
+
+#bouton {
+    text-align: right;
+}
+
+.btn {
+    background-color: #c385b9;
+    color: white;
+}
+
+table {
+    font-weight: bold;
+}
+
+.titre {
+    margin-bottom: 5%;
+}
+
+nav {
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.tableau {
+    margin: auto;
+}
+
+btn-secondary {}
+
+.valider {
+    margin: auto;
+}
+
+.nav-brand {
+    font-size: 2rem;
+}
